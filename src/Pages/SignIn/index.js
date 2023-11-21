@@ -42,16 +42,16 @@ const styles = StyleSheet.create({
         flex:1,
         backgroundColor: "#FFFFFF",
         marginTop:'14%',
-        marginBottom: '8%',
+        marginBottom: '0%',
         paddingStart: '5%',
     },
     message:{
         fontSize: 28,
         fontWeight: 'bold',
-        color: 'yellow'
+        color: 'black'
     },
     containerForm:{
-        backgroundColor: '#FFF',
+        backgroundColor: '#ffffff',
         flex:1,
         borderTopLeftRadius:25,
         borderTopRightRadius: 25,
